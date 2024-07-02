@@ -8,5 +8,9 @@
 
 <img src="https://github.com/hazelfathonii/final-projectakhir/assets/168981287/8a64842f-4b34-4d6e-b781-6faf1d318b55" alt="Deskripsi Foto" width="500" height="300">
 
-## QRCode
+## QRCode ARCam
 <img src="https://github.com/hazelfathonii/final-projectakhir/assets/168981287/4cc9b3af-5bd9-43e6-8bcf-4c57a3772632" alt="Deskripsi QR Code" width="400" height="400">
+
+## QRCode Web 
+<img src="https://github.com/hazelfathonii/final-projectakhir/assets/168981287/9029293c-c839-4ab9-9a06-3c8a83991f34"  alt="Deskripsi QR Code" width="400" height="400"> 
+
